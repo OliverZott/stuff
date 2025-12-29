@@ -40,7 +40,7 @@ Zusammenhang zwischen Wasserdampf-Partialdruck, relativer Luftfeuchtigkeit und T
     - Die relative Luftfeuchtigkeit ist das Verhältnis von aktuellem Wasserdampf-Partialdruck zum Sättigungsdampfdruck bei der aktuellen Temperatur:
         $\mathrm{rLF}=\frac{p_{H_2O}}{p_{\mathrm{sat}}(T)}\cdot 100\%$
     - Beispiel:
-        - Luft bei $20^{\circ }C$, $ p_{\mathrm{sat}}\approx 23\, \mathrm{hPa}$.
+        - Luft bei $20^{\circ }C$, $p_{\mathrm{sat}}\approx 23\, \mathrm{hPa}$.
         - Aktueller Wasserdampf-Partialdruck $p_{H_2O}=14\, \mathrm{hPa}$.
         - Dann:
             $\mathrm{rLF}=\frac{14}{23}\cdot 100\% \approx 61\%$
@@ -57,3 +57,11 @@ Zusammenhang zwischen Wasserdampf-Partialdruck, relativer Luftfeuchtigkeit und T
         - Umgebungsluft: 20 °C, 60 % rLF.
         - Taupunkt dieser Luft liegt etwa bei 12 °C.
         - Wenn die Pfanne durch das gefrorene Gemüse auf 5 °C abkühlt, fällt die Luft direkt an der Pfannenoberfläche unter den Taupunkt → Kondensation tritt auf, obwohl die Umgebungsluft nur 60 % rLF hat.
+
+## Wasser - Dichteanomalie
+
+- **Winkel** - Ein isoliertes Wassermolekül hat einen Bindungswinkel von etwa 104,5°. Dieser Winkel entsteht, weil die zwei freien Elektronenpaare am Sauerstoffatom mehr Platz beanspruchen als die Bindungen zu den Wasserstoffatomen und diese daher „zusammendrücken“.
+- **Wasserstoffbrückenbindungen** - Wassermoleküle können Wasserstoffbrückenbindungen miteinander eingehen, bei denen das leicht positive Wasserstoffatom eines Moleküls eine Anziehungskraft zum leicht negativen Sauerstoffatom eines benachbarten Moleküls ausübt. Diese Bindungen sind schwächer als kovalente Bindungen, aber stärker als Van-der-Waals-Kräfte.
+- **Der gewinkelte Aufbau**: Ein isoliertes Wassermolekül hat einen Bindungswinkel von etwa 104,5°. Dieser Winkel entsteht, weil die zwei freien Elektronenpaare am Sauerstoffatom mehr Platz beanspruchen als die Bindungen zu den Wasserstoffatomen und diese daher „zusammendrücken“.
+- **Auswirkung auf das Eisgitter**: Wenn Wasser gefriert, streben die Moleküle eine energetisch günstige Anordnung an, um möglichst stabile Wasserstoffbrückenbindungen zu bilden. Aufgrund des molekularen Winkels und der Ausrichtung der Elektronenpaare ordnen sie sich in einer tetraedrischen Struktur an.
+- **Die „Hohlräume“**: Diese tetraedrische Anordnung führt im festen Zustand (Eis) zu einem weitmaschigen, hexagonalen Kristallgitter. In diesem Gitter sind die Moleküle durch den festen Winkel gezwungen, relativ große Abstände zueinander einzuhalten, wodurch „Hohlräume“ entstehen.
